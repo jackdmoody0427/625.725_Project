@@ -7,6 +7,8 @@ This is a public repository to host the data, jupyter notebook, and materials re
   - Psuedo code and outline = 725_Project Psuedo Code and Outline.pdf
 
   - Methods = 725_Project_Full_Methods.pdf
+  
+  - Project Overview
 
 - Full Report = 
 
