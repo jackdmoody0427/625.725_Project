@@ -10,7 +10,7 @@ This is a public repository to host the data, jupyter notebook, and materials re
   
   - Project Overview
 
-- Full Report = 
+- Full Report = 625.725_Final_Report.pdf
 
 - Jupyter Notebook (all code including data cleaning and analysis) = 625_725_Project_Code.ipynb
 
